@@ -18,7 +18,7 @@ names have been used as unique ids just for the sake of presentation, real world
    1. Python 3.9
    2. Pip
 ```shell
-pip install -r requirements.txt
+go to the project directory and run command in terminal-- pip install -r requirements.txt
 ```
 
 2. Run the command
